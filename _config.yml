@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 require: "em/pure_ruby"
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Shadman
+first_name: Arpan
 middle_name:
-last_name: Shahid
-email: shadman9085@gmail.com
+last_name: Sur
+email: arpansur.101@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,7 +17,7 @@ keywords: jekyll-theme, academic-website, portfolio-website, photonics  # add yo
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🔥 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://shadman-shahid.github.io # the base hostname & protocol for your site
+url: https://arpansur.101.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -138,10 +138,10 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: shadman-shahid/shadman-shahid      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
+  repo:     # <your-github-user-name>/<your-github-repo-name>
+  repo_id: 
   category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
+  category_id: 
   mapping: title                 # identify discussions by post title
   strict: 1                      # use strict identification mode
   reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
@@ -271,8 +271,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: [Shahid]
-  first_name: [Shadman]
+  last_name: [Sur]
+  first_name: [Arpan]
 
   style: apa
   locale: en
