@@ -70,16 +70,16 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: shadman-shahid
+github_username: arpansur101
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-linkedin_username: shadmanshahid
+linkedin_username: arpan-sur-235761192
 telegram_username: # your Telegram user name
-scholar_userid: https://scholar.google.com/citations?hl=en&user=Yhv2nC8AAAAJ&view_op=list_works&gmla=ABEO0YrkVftDKiQtuRLjibPPnEGEJMhcHUcPHqQkTsYYYZ71R0MqzXsnykPrdqVKUrRCt6clf6XwwBFY_Vgfjw8I
+scholar_userid: X16VeXQAAAAJ
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0002-3103-9069
+orcid_id: 0009-0003-5833-9998
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
