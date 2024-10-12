@@ -1,12 +1,12 @@
-<div class="row">
-  <div class="col-md-6">
+<div class="flex-container">
+  <div class="flex-item">
     <ul>
       {% for item in entry.contents limit: (entry.contents.size | divided_by: 2) %}
         <li>{{ item }}</li>
       {% endfor %}
     </ul>
   </div>
-  <div class="col-md-6">
+  <div class="flex-item">
     <ul>
       {% for item in entry.contents offset: (entry.contents.size | divided_by: 2) %}
         <li>{{ item }}</li>
@@ -14,3 +14,13 @@
     </ul>
   </div>
 </div>
+
+<style>
+  .flex-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  .flex-item {
+    width: 48%;
+  }
+</style>
