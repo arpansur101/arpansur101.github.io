@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Self-consistent Schrodinger-Poisson Solver
-description: with background image
+description: Graduate level
 img: assets/img/SP_gate.png
 importance: 1
-category: Technical Writings
+category: Academic Projects
 related_publications: true
 ---
 
