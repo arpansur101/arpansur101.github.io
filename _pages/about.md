@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Room 919, Department of EEE</p>
-    <p>ECE Building, BUET</p>
-    <p>Dhaka, Bangladesh.</p>
+  # more_info: >
+  #   <p>Room 919, Department of EEE</p>
+  #   <p>ECE Building, BUET</p>
+  #   <p>Dhaka, Bangladesh.</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
