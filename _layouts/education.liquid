@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<!-- _layouts/education.html -->
+<!-- _layouts/education.liquid -->
 <div class="post">
 
   <header class="post-header">
@@ -22,7 +22,7 @@ layout: default
             <div class="col-sm-2 preview">
               {%- if entry.logo -%}
               {%- assign entry_path = entry.logo | prepend: '/assets/img/logos/' -%}
-              {% include figure.html
+              {% include figure.liquid
               path=entry_path
               class="preview z-depth-1 rounded"
               alt=entry.logo -%}
@@ -58,8 +58,8 @@ layout: default
           <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %} {%- if entry.bibtex_show %}
           <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
-          {%- endif %} {%- if entry.html %}
-          <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
+          {%- endif %} {%- if entry.liquid %}
+          <a href="{{ entry.liquid }}" class="btn btn-sm z-depth-0" role="button">HTML</a>
           {%- endif %} {%- if entry.pdf %} {% if entry.pdf contains '://' -%}
           <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
           {%- else -%}
