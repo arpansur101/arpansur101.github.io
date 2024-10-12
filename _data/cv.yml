@@ -74,17 +74,30 @@
       items: 
         -  For obtaining a GPA of 3.75 or above in two regular terms of an academic year
 
+
 - title: Academic Interests
-  type: nested_list
+  type: list_column
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - ANC
+    - BNC
+    - CDC
+    - DEC
+    - IOS
+    - ONC
+    - NSG
+    - JHDS
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
