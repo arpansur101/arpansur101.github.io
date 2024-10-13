@@ -2,7 +2,7 @@
 layout: page
 title: Design of a Bangla Calendar Clock
 description: Undergraduate level
-img:assets/img/B_clock.png
+img: assets/img/B_clock.png
 importance: 6
 category: Academic Projects
 related_publications: true

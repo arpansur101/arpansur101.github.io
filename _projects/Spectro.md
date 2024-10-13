@@ -2,7 +2,7 @@
 layout: page
 title: Design of a Spectrometer operating in Visible wavelength
 description: Undergraduate level
-img:assets/img/opto_thumb.png
+img: assets/img/opto_thumb.png
 importance: 5
 category: Academic Projects
 related_publications: true
