@@ -3,7 +3,7 @@ layout: page
 title: Binary Classification using Logistic Regression and SVM
 description: Graduate level
 img:
-importance: 4
+importance: 19
 category: Academic Projects
 related_publications: true
 ---
