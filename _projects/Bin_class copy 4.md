@@ -1,14 +1,19 @@
 ---
 layout: page
-title: Binary Classification using Logistic Regression and SVM
-description: Graduate level
+title: Design of 4 bit Arithmetic Logic Unit (ALU)
+description: Undergraduate level
 img:
 importance: 19
 category: Academic Projects
 related_publications: true
 ---
 
-Performed binary classification on "Happy Dataset" using Logistic regression and Support vector machine algorithms and compared the performance between these 2 models. The details can be found in the pdf [here][LINK]
+This is a project of my Level-2, Term-1, presented in EEE 212 : Numerical Technique Laboratory. Here, we analysed 4 types of resonant circuits showing eith first order or second order resonance: series RLC, parallel RLC, cascaded RL and cascaded RC circuit.
+We determined bandwidth, quality factor, resonant frequency, center frequency, cutoff frequency, transfer
+function, bode plot of filter circuit.
+
+
+ The details can be found in the pdf [here][LINK]
 
 
 
