@@ -35,6 +35,7 @@ nav_order: 3
 
 </div>
 
+<div style="height: 20px;"></div> 
 
 <p style="text-align: center; font-size: 32px;">
     Publications Under Review
@@ -50,6 +51,7 @@ S. Saha*, A. Sur*, S. Bain, T. T. Hasan, “Development of a Low-Cost Spectromet
 S. K. Das*, A. Sur*, M. F. Hossain, “Collaborative Path Planning and Target Search in Multi-Robot Systems with
 PID-Controlled Uniform Area Partitioning” **Manuscript submitted in 27th IEEE ICCIT (2024)**
 
+<div style="height: 20px;"></div> 
 
 <p style="text-align: center; font-size: 32px;">
     Research Experience
@@ -58,6 +60,8 @@ PID-Controlled Uniform Area Partitioning” **Manuscript submitted in 27th IEEE 
 <p style="text-align: left; font-size: 24px;">
     Improvement of thin film perovskite solar cells beyond the visible spectrum
 </p>
+
+<p><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
 
 <div style="text-align: center; font-size: 16px;">
     <ul style="list-style-position: inside; text-align: left;">
