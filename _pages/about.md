@@ -22,7 +22,7 @@ I am currently working as a Research Fellow in the [Department of Electrical and
 
 Beyond my thesis, I also have experience designing graphene-based plasmonic waveguides and integrable plasmonic devices. I am currently developing 2D material-based nanoparticles that have potential medical applications. My research interests include **Plasmonics and Nanophotonics**, **Photonic Integrated Circuit**, **Ultrafast Optoelectronics**, **Non-linear Optics** and **Quantum Optics**. 
 
-With the rapid advancements of the past century, traditional semiconductor electronics now faces limits in speed, energy efficiency, and processing power. Photonics is emerging as a faster, more efficient alternative to sustain technological progress. Beyond classical applications, photonics holds vast potential in quantum technologies. I believe photonic devices will be key to future innovations, and I am eager to contribute to this transformative field.
+With the rapid advancements of the past century, traditional semiconductor electronics now faces limits in speed, energy efficiency, and processing power. Meanwhile, photonics is emerging as a faster, more efficient alternative to sustain technological progress. Beyond classical applications, photonics holds vast potential in quantum technologies. I believe photonic devices will be key to future innovations, and I am eager to contribute to this transformative field.
 
 
 

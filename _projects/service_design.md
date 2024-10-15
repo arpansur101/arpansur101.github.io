@@ -7,8 +7,7 @@ category: Academic Projects
 related_publications: true
 ---
 
-Based on the floor-plan, Fitting and Fixtures are suggested, Conduit lines are designed and Power Distribution of
-the whole building is analyzed using AutoCAD software.
+This is a project of my Level-4, Term-2 presented in EEE 414 : Electrical Services Design. Here, we selected the floor-plan of a practical establishment and suggested fitting and fixtures, designed conduit lines using AutoCAD software. Then, we estimated the power requiment of the whole building based on suggested fitting and fixtures and calculated generator and substation ratings and connecting wire size. Additionally, we also designed the roof top lighning protection system for the selected establishment.
 
 <!-- The details can be found in the pdf [here][LINK] -->
 

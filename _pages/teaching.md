@@ -42,7 +42,7 @@ nav_order: 3
 </p>
 
 
-<strong>A. Sur*</strong>, A. Zubair, “Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate”
+<strong>A. Sur</strong>, A. Zubair, “Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate”
 
 **Manuscript submitted in 13th IEEE ICECE (2024)**
 

@@ -8,7 +8,7 @@ category: Academic Projects
 related_publications: true
 ---
 
-Performed binary classification on "Happy Dataset" using Logistic regression and Support vector machine algorithms and compared the performance between these 2 models. The details can be found in the pdf [here][LINK]
+This is the mid-term project of my graduate course EEE 6608 : Machine Learning and Pattern Recognition. Here, I performed binary classification on "Happy Dataset" using Logistic regression and Support vector machine algorithms and compared the performance between these 2 models. The details can be found in the pdf [here][LINK]
 
 
 

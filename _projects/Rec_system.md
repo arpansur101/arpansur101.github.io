@@ -8,7 +8,7 @@ category: Academic Projects
 related_publications: true
 ---
 
-Developed a recommendation system using MovieLens dataset with the PyTorch framework. The details can be found in the pdf [here][LINK]
+This is the final-term project of my graduate course EEE 6608 : Machine Learning and Pattern Recognition. Here, I developed a recommendation system using MovieLens dataset with the PyTorch framework. The details can be found in the pdf [here][LINK]
 
 
 

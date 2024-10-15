@@ -8,7 +8,7 @@ category: Academic Projects
 related_publications: true
 ---
 
-CD grating and low-cost camera assisted spectrometer was developed to characterize light sources by inspecting their intensity-wavelength and light-current characteristics in the visible region. The video presentation can be found [here][LINK].
+This is a project of my Level-4, Term-2, presented in EEE 460 : Optoelectronics Laboratory. CD grating and low-cost camera assisted spectrometer was developed to characterize light sources by inspecting their intensity-wavelength and light-current characteristics in the visible region. The video presentation can be found [here][LINK].
 
 
 

@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 
-In this project, we have developed a calender clock that displays time (in a 12 hour format), part of the day, date in Bangla language. We used Dot Led Matrix arrays as the display of our calendar clock. We used ESP32 microprocessor as our main controlling unit and RTC module for real time clock tracking. Our clock supports 3 diffrent calender format (Gregorian, Bangla and Hizri) with periodic **internet time synchronization** from pool.ntp.org website.  As a result, our project is less vulnerable to time lagging due to RTC failure. The top part of display shows the time while bottom part shows the date in scrolling motion.
+This is a project of my Level-4, Term-1, presented in EEE 416 : Microprocessors and Embedded Systems Laboratory. In this project, we have developed a calender clock that displays time (in a 12 hour format), part of the day, date in Bangla language. We used Dot Led Matrix arrays as the display of our calendar clock. We used ESP32 microprocessor as our main controlling unit and RTC module for real time clock tracking. Our clock supports 3 diffrent calender format (Gregorian, Bangla and Hizri) with periodic **internet time synchronization** from pool.ntp.org website.  As a result, our project is less vulnerable to time lagging due to RTC failure. The top part of display shows the time while bottom part shows the date in scrolling motion.
 
 
 </div>
