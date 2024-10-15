@@ -9,7 +9,7 @@ nav_order: 3
 
 
 <p style="text-align: center; font-size: 32px;">
-    Research Interest
+    <strong>Research Interest</strong>
 </p>
 
 
@@ -38,7 +38,7 @@ nav_order: 3
 <div style="height: 60px;"></div> 
 
 <p style="text-align: center; font-size: 32px;">
-    Publications Under Review
+    <strong>Publications Under Review</strong>
 </p>
 
 
@@ -50,19 +50,18 @@ S. Saha*, <strong>A. Sur*</strong>, S. Bain, T. T. Hasan, “Development of a Lo
 
 **Manuscript submitted in 13th IEEE ICECE (2024)**
 
-S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “Collaborative Path Planning and Target Search in Multi-Robot Systems with
-PID-Controlled Uniform Area Partitioning” 
+S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning” 
 
 **Manuscript submitted in 27th IEEE ICCIT (2024)**
 
 <div style="height: 60px;"></div> 
 
 <p style="text-align: center; font-size: 32px;">
-    Research Experience
+    <strong>Research Experience</strong>
 </p>
 
 <p style="text-align: left; font-size: 24px;">
-    Improvement of thin film perovskite solar cells beyond the visible spectrum
+    <strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong>
 </p>
 
 <p><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
@@ -82,7 +81,7 @@ PID-Controlled Uniform Area Partitioning”
 
 
 <p style="text-align: left; font-size: 24px;">
-    Ultra-compact dielectric-coated graphene based integrated device
+    <strong>Ultra-compact dielectric-coated graphene based integrated device</strong>
 </p>
 
 <p><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
@@ -101,7 +100,7 @@ PID-Controlled Uniform Area Partitioning”
 
 
 <p style="text-align: left; font-size: 24px;">
-    2D material-based nanostructure design for photothermal cancer therapy
+    <strong>2D material-based nanostructure design for photothermal cancer therapy</strong>
 </p>
 
 <p><i>Supervisor: Dr. Md. Kawsar Alam, Professor, Dept. of EEE, BUET</i></p>
@@ -118,7 +117,7 @@ PID-Controlled Uniform Area Partitioning”
 
 
 <p style="text-align: left; font-size: 24px;">
-    Collaborative multi-robot coverage path planning and target search system
+    <strong>Collaborative multi-robot coverage path planning and target search system</strong>
 </p>
 
 <p><i>Supervisor:  Dr. Md. Farhad Hossain, Professor, Dept. of EEE, BUET</i></p>
@@ -132,4 +131,3 @@ PID-Controlled Uniform Area Partitioning”
 
 <div style="height: 30px;">
 </div> 
-
