@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Review on material platform for Intergrated SPD
+title: Review on material platform for Intergrated Single photon detector
 description: Graduate level
 img: assets/img/SPD_fig.png
 importance: 1

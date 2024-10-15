@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Self-consistent Schrodinger-Poisson Solver
+title: Review on impact of Graphene and its Derivatives Photovoltaic Application
 description: Graduate level
 img: assets/img/Graphene_fig.png
 importance: 2
