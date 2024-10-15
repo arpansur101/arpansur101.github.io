@@ -8,8 +8,8 @@ nav_order: 3
 ---
 
 
-<p style="text-align: center;">
-    ##Research Interest
+<p style="text-align: center; font-size: 32px;">
+    Research Interest
 
-    
+
 </p>
