@@ -8,7 +8,7 @@ category: Academic Projects
 related_publications: true
 ---
 
-Numerically computed potential profile, band-structure and C-V characteristics using MATLAB. The details can be found in the pdf [here][LINK]
+This is a project of my graduate course EEE 6512 : Nanoscale Device Modeling and Simulation Techniques. Here, I numerically computed potential profile, band-structure and C-V characteristics using MATLAB. The details can be found in the pdf [here][LINK]
 
 
 

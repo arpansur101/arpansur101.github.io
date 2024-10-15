@@ -8,4 +8,4 @@ category: Technical Writings
 related_publications: true
 ---
 
-Reviewed the functionality of Graphene and its derivatives in different layers of various third generation solar cells. The review paper will be published in journal in future.
+This is the term paper of my graduate course EEE 6407 : Carbon Nanotechnology. Here, we reviewed the functionality of Graphene and its derivatives in different layers of various third generation solar cells. The review paper will be published in journal in future.

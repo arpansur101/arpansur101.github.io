@@ -8,7 +8,7 @@ category: Technical Writings
 related_publications: true
 ---
 
-A short assignment to analyse the operating mechanism of Cascode device, where D-mode GaN is operated in E-mode application. Moreover, the input and outpit capacitance was calculated using spice compact models of the transistors and verified with literature.  The details can be found in the pdf [here][LINK]
+This is from my graduate course EEE 6412 : Heterostructures and Compound Semiconductor Device. Here, I was given a short assignment to analyse the operating mechanism of Cascode device, where D-mode GaN is operated in E-mode application. Moreover, the input and outpit capacitance was calculated using spice compact models of the transistors and verified with literature.  The details can be found in the pdf [here][LINK]
 
 
 

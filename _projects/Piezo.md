@@ -8,7 +8,7 @@ category: Technical Writings
 related_publications: true
 ---
 
-A short assignment to calculate the 2DEG concentration of AlGaN/GaN devices analytically and show its dependence of barrier layer concentration and thickness. The details can be found in the pdf [here][LINK]
+This is from my graduate course EEE 6412 : Heterostructures and Compound Semiconductor Device. Here, I was given a short assignment to calculate the 2DEG concentration of AlGaN/GaN devices analytically and show its dependence of barrier layer concentration and thickness. The details can be found in the pdf [here][LINK]
 
 
 
