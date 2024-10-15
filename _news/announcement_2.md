@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated 
+Graduated with a B.Sc. in Electrical and Electronic Engineering from BUET
