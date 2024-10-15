@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: 
+title: Research
 description: 
 nav: true
 nav_order: 3
@@ -34,3 +34,34 @@ nav_order: 3
   </div>
 
 </div>
+
+
+<p style="text-align: center; font-size: 32px;">
+    Publications Under Review
+</p>
+
+
+A. Sur, A. Zubair, “Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical
+Logic Gate” **Manuscript submitted in 13th IEEE ICECE (2024)**
+
+S. Saha*, A. Sur*, S. Bain, T. T. Hasan, “Development of a Low-Cost Spectrometer for Educational Applications”.
+**Manuscript submitted in 13th IEEE ICECE (2024)**
+
+S. K. Das*, A. Sur*, M. F. Hossain, “Collaborative Path Planning and Target Search in Multi-Robot Systems with
+PID-Controlled Uniform Area Partitioning” **Manuscript submitted in 27th IEEE ICCIT (2024)**
+
+
+<p style="text-align: center; font-size: 32px;">
+    Research Experience
+</p>
+
+<p style="text-align: left; font-size: 24px;">
+    Improvement of thin film perovskite solar cells beyond the visible spectrum
+</p>
+
+<div style="text-align: center; font-size: 16px;">
+    <ul style="list-style-position: inside; text-align: left;">
+      <li>Studied the structural dependence of near-field and far-field enhancement by plasmonic nanoparticles (NPs) embedded in ultrathin perovskite solar cells (PSCs), while excluding the parasitic NP absorption. Presented my findings on high-surface-area nanoparticles at the 85th JSAP Autumn Meeting 2024</li>
+      <li>Analyzed the impact of implementing a hyperuniform nanohole pattern in the top layer and absorption layer of perovskite solar cells</li>
+    </ul>
+  </div>
