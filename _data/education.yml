@@ -1,7 +1,21 @@
 
+# - title: "Master of Science"
+#   degree: "Electrical and Electronic Engineering"
+#   major: "Electronics and Photonics" 
+#   dept_link: "https://eee.buet.ac.bd/"
+#   key: "msc2025"
+#   university: "Bangladesh University of Engineering and Technology"
+#   uni_link: "https://buet.ac.bd/"
+#   duration: "June 2023 - Ongoing"
+#   year: 2025
+#   cgpa: "3.92"
+#   cgpa_scale: "4.00"
+#   location: "Dhaka, Bangladesh"
+#   logo: "buet.png"
+
 - title: "Master of Science"
   degree: "Electrical and Electronic Engineering"
-  major: "Electronics and Photonics" 
+  major: "Electronics and Photonics"
   dept_link: "https://eee.buet.ac.bd/"
   key: "msc2025"
   university: "Bangladesh University of Engineering and Technology"
@@ -10,8 +24,10 @@
   year: 2025
   cgpa: "3.92"
   cgpa_scale: "4.00"
+  # rank: "14 / 215 (Top 6%)"
   location: "Dhaka, Bangladesh"
   logo: "buet.png"
+
 
 
 - title: "Bachelor of Science"
