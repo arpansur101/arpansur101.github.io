@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description:
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [List of Publications, Publications Under Review and Preparation]
 horizontal: false
 ---

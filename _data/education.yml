@@ -2,8 +2,10 @@
 - title: "Master of Science"
   degree: "Electrical and Electronic Engineering"
   major: "Electronics and Photonics" 
+  dept_link: "https://eee.buet.ac.bd/"
   key: "msc2025"
   university: "Bangladesh University of Engineering and Technology"
+  uni_link: "https://buet.ac.bd/"
   duration: "June 2023 - Ongoing"
   year: 2025
   cgpa: "3.92"
@@ -48,7 +50,7 @@
   key: "ssc2015"
   university: "Noakhali Zilla School"
   uni_link: "http://www.nzs.edu.bd/"
-  duration: "July 2015 - July 2017"
+  duration: "Jan 2009 - May 2015"
   year: 2015
   cgpa: "5.00"
   cgpa_scale: "5.00"
