@@ -2,11 +2,12 @@
 - title: "Master of Science"
   degree: "Electrical and Electronic Engineering"
   major: "Electronics and Photonics" 
-  key: "msc2024"
+  key: "msc2025"
   university: "Bangladesh University of Engineering and Technology"
   duration: "June 2023 - Ongoing"
-  year: 2024
+  year: 2025
   cgpa: "3.92"
+  cgpa_scale: "4.00"
   location: "Dhaka, Bangladesh"
   logo: "buet.png"
 
@@ -21,6 +22,36 @@
   duration: "March 2018 - May 2023"
   year: 2023
   cgpa: "3.53"
+  cgpa_scale: "4.00"
   # rank: "14 / 215 (Top 6%)"
   location: "Dhaka, Bangladesh"
   logo: "buet.png"
+
+
+- title: "Higher Secondary Certificate (HSC)"
+  major: "Science"
+  key: "hsc2017"
+  university: "Notre Dame College"
+  uni_link: "https://ndc.edu.bd/"
+  duration: "July 2015 - July 2017"
+  year: 2017
+  cgpa: "5.00"
+  cgpa_scale: "5.00"
+  # rank: "14 / 215 (Top 6%)"
+  location: "Dhaka, Bangladesh"
+  logo: "ndc.png"
+
+
+
+- title: "Secondary School Certificate (SSC)"
+  major: "Science"
+  key: "ssc2015"
+  university: "Noakhali Zilla School"
+  uni_link: "http://www.nzs.edu.bd/"
+  duration: "July 2015 - July 2017"
+  year: 2015
+  cgpa: "5.00"
+  cgpa_scale: "5.00"
+  # rank: "14 / 215 (Top 6%)"
+  location: "Noakhali, Bangladesh"
+  logo: "NZS.png"
