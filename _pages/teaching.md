@@ -35,23 +35,27 @@ nav_order: 3
 
 </div>
 
-<div style="height: 20px;"></div> 
+<div style="height: 60px;"></div> 
 
 <p style="text-align: center; font-size: 32px;">
     Publications Under Review
 </p>
 
 
-A. Sur, A. Zubair, “Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical
-Logic Gate” **Manuscript submitted in 13th IEEE ICECE (2024)**
+<strong>A. Sur*</strong>, A. Zubair, “Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate”
 
-S. Saha*, A. Sur*, S. Bain, T. T. Hasan, “Development of a Low-Cost Spectrometer for Educational Applications”.
 **Manuscript submitted in 13th IEEE ICECE (2024)**
 
-S. K. Das*, A. Sur*, M. F. Hossain, “Collaborative Path Planning and Target Search in Multi-Robot Systems with
-PID-Controlled Uniform Area Partitioning” **Manuscript submitted in 27th IEEE ICCIT (2024)**
+S. Saha*, <strong>A. Sur*</strong>, S. Bain, T. T. Hasan, “Development of a Low-Cost Spectrometer for Educational Applications”  
 
-<div style="height: 20px;"></div> 
+**Manuscript submitted in 13th IEEE ICECE (2024)**
+
+S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “Collaborative Path Planning and Target Search in Multi-Robot Systems with
+PID-Controlled Uniform Area Partitioning” 
+
+**Manuscript submitted in 27th IEEE ICCIT (2024)**
+
+<div style="height: 60px;"></div> 
 
 <p style="text-align: center; font-size: 32px;">
     Research Experience
@@ -68,4 +72,64 @@ PID-Controlled Uniform Area Partitioning” **Manuscript submitted in 27th IEEE 
       <li>Studied the structural dependence of near-field and far-field enhancement by plasmonic nanoparticles (NPs) embedded in ultrathin perovskite solar cells (PSCs), while excluding the parasitic NP absorption. Presented my findings on high-surface-area nanoparticles at the 85th JSAP Autumn Meeting 2024</li>
       <li>Analyzed the impact of implementing a hyperuniform nanohole pattern in the top layer and absorption layer of perovskite solar cells</li>
     </ul>
-  </div>
+</div>
+
+<div style="height: 30px;">
+</div> 
+
+
+
+
+
+<p style="text-align: left; font-size: 24px;">
+    Ultra-compact dielectric-coated graphene based integrated device
+</p>
+
+<p><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
+
+<div style="text-align: center; font-size: 16px;">
+    <ul style="list-style-position: inside; text-align: left;">
+      <li>Investigated the surface plasmon polariton modes and their propagation through graphene at various chemical potential in the MIR to THz frequency range</li>
+      <li>Designed an ultra-compact graphene plasmonic logic gate operating at the MIR wavelength, capable of performing both AND and OR operations based on the applied voltage.</li>
+    </ul>
+</div>
+
+<div style="height: 30px;">
+</div> 
+
+
+
+
+<p style="text-align: left; font-size: 24px;">
+    2D material-based nanostructure design for photothermal cancer therapy
+</p>
+
+<p><i>Supervisor: Dr. Md. Kawsar Alam, Professor, Dept. of EEE, BUET</i></p>
+
+<div style="text-align: center; font-size: 16px;">
+    <ul style="list-style-position: inside; text-align: left;">
+      <li>Investigated multifunctional nanostructures with superior thermal and optical absorption properties in the NIR spectrum through first-principles and FDTD simulations.</li>
+    </ul>
+</div>
+
+<div style="height: 30px;">
+</div> 
+
+
+
+<p style="text-align: left; font-size: 24px;">
+    Collaborative multi-robot coverage path planning and target search system
+</p>
+
+<p><i>Supervisor:  Dr. Md. Farhad Hossain, Professor, Dept. of EEE, BUET</i></p>
+
+<div style="text-align: center; font-size: 16px;">
+    <ul style="list-style-position: inside; text-align: left;">
+      <li>Evaluated the efficiency of various coverage and exploration algorithms, considering the kinematic and dynamic constraints of both vehicles and sensors.</li>
+      <li>Conducted coverage path planning based exploration of the search space through communication between deployed robots and search targets, accounting for path loss models.</li>
+    </ul>
+</div>
+
+<div style="height: 30px;">
+</div> 
+
