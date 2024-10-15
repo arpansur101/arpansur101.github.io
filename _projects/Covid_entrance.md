@@ -3,7 +3,7 @@ layout: page
 title: Design of a Contact-less Entrance System with COVID-19 Prevention Features
 description: Undergraduate level
 img:
-importance: 19
+importance: 8
 category: Academic Projects
 related_publications: true
 ---

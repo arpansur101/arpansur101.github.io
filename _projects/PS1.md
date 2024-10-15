@@ -3,7 +3,7 @@ layout: page
 title: Investigating the effect of HVDC connection and large industrial loads in IEEE 39-bus network
 description: Undergraduate level
 img:
-importance: 19
+importance: 12
 category: Academic Projects
 related_publications: true
 ---

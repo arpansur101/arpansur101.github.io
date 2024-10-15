@@ -3,7 +3,7 @@ layout: page
 title: Design of a constant Speed control and Speed monitoring system for a DC motor
 description: Undergraduate level
 img:
-importance: 19
+importance: 10
 category: Academic Projects
 related_publications: true
 ---

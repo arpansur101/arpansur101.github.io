@@ -3,7 +3,7 @@ layout: page
 title: Design of 4 bit Arithmetic Logic Unit (ALU)
 description: Undergraduate level
 img:
-importance: 19
+importance: 9
 category: Academic Projects
 related_publications: true
 ---

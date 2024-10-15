@@ -3,7 +3,7 @@ layout: page
 title: Bidirectional Speed Control of a DC motor using Pulse Width Modulation
 description: Undergraduate level
 img:
-importance: 19
+importance: 18
 category: Academic Projects
 related_publications: true
 ---

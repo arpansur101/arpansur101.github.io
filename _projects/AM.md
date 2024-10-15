@@ -3,7 +3,7 @@ layout: page
 title: Frequency Division Multiplexing using Coherent and Envelope Detector
 description: Undergraduate level
 img:
-importance: 19
+importance: 11
 category: Academic Projects
 related_publications: true
 ---

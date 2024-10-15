@@ -2,7 +2,7 @@
 layout: page
 title: Electrical service design of a multi-storied building
 description: Undergraduate level
-importance: 13
+importance: 7
 category: Academic Projects
 related_publications: true
 ---

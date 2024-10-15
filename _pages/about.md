@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently working as a Research Fellow in the [Department of Electrical and Electronic Engineering (EEE)][EEE-BUET] at [Bangladesh University of Engineering and Technology (BUET)][UNI]. I completed my B.Sc. in Electrical and Electronic Engineering in 2023 and currently pursuing an M.Sc. in the same department, specializing in Electronics and Photonics (EP) under the supervision of [Dr. Ahmed Zubair][DAZ]. My Master's thesis focuses on enhancing the performance of ultra-thin film perovskite solar cells beyond the visible spectrum through the incorporation of plasmonic nanoparticles.
+I am currently working as a Research Fellow in the [Department of Electrical and Electronic Engineering (EEE)][EEE-BUET] at [Bangladesh University of Engineering and Technology (BUET)][UNI]. I completed my B.Sc. in Electrical and Electronic Engineering from BUET in 2023 and am currently pursuing an M.Sc. in the same department, specializing in Electronics and Photonics (EP) under the supervision of [Dr. Ahmed Zubair][DAZ]. My Master's thesis focuses on enhancing the performance of ultra-thin film perovskite solar cells beyond the visible spectrum through the incorporation of plasmonic nanoparticles.
 
 Beyond my thesis, I also have experience designing graphene-based plasmonic waveguides and integrable plasmonic devices. I am currently developing 2D material-based nanoparticles that have potential medical applications. My research interests include **Plasmonics and Nanophotonics**, **Photonic Integrated Circuit**, **Ultrafast Optoelectronics**, **Non-linear Optics** and **Quantum Optics**. 
 
