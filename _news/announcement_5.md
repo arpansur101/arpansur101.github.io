@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presented my finding on high-surface-area nanoparticles at the 85th JSAP Autumn Meeting 2024
+Presented my finding on high-surface-area nanoparticles at the **85th JSAP Autumn Meeting 2024**

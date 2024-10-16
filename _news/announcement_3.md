@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started pursuing M.Sc. in Electrical and Electronic Engineering at BUET, majoring in Electronics and Photonics (EP)
+Started pursuing **M.Sc.** in Electrical and Electronic Engineering at BUET, majoring in **Electronics and Photonics (EP)**

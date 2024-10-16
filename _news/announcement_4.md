@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started as a Research Fellow in Department of Electrical and Electronic Engineering at BUET
+Started as a **Research Fellow** in the Department of Electrical and Electronic Engineering at BUET
