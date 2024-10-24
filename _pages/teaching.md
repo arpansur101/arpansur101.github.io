@@ -43,20 +43,23 @@ nav_order: 3
 
 
 <p style="font-size: 20px;">
-
 <strong>A. Sur</strong>, A. Zubair, “<strong>Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate</strong>”
+</p>
 
 **Manuscript submitted in 13th IEEE ICECE (2024)**
 
+<p style="font-size: 20px;">
 S. Saha*, <strong>A. Sur*</strong>, S. Bain, T. T. Hasan, “<strong>Development of a Low-Cost Spectrometer for Educational Applications</strong>”  
+</p>
 
 **Manuscript submitted in 13th IEEE ICECE (2024)**
 
+<p style="font-size: 20px;">
 S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” 
+</p>
 
 **Manuscript submitted in 27th IEEE ICCIT (2024)**
 
-</p>
 
 <div style="height: 60px;"></div> 
 
