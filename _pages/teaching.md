@@ -128,7 +128,7 @@ nav_order: 3
 
 - <p style="text-align: left; font-size: 24px;"><strong>2D material-based nanostructure design for photothermal cancer therapy</strong></p>
 
-<p><i>Supervisor: Dr. Md. Kawsar Alam, Professor, Dept. of EEE, BUET</i></p>
+<p style="padding-left: 20px;"><i>Supervisor: Dr. Md. Kawsar Alam, Professor, Dept. of EEE, BUET</i></p>
 
 <div style="text-align: center; font-size: 16px;">
     <ul style="list-style-position: inside; text-align: left;">
@@ -141,8 +141,7 @@ nav_order: 3
 
 
 
-- <p style="text-align: left; font-size: 24px;"><strong>Collaborative multi-robot coverage path planning and target search system</strong>
-</p>
+- <p style="text-align: left; font-size: 24px;"><strong>Collaborative multi-robot coverage path planning and target search system</strong></p>
 
 <p><i>Supervisor:  Dr. Md. Farhad Hossain, Professor, Dept. of EEE, BUET</i></p>
 
