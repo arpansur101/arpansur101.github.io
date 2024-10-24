@@ -7,9 +7,13 @@ nav: true
 nav_order: 3
 ---
 
+---
+
 <p style="text-align: center; font-size: 32px;">
     <strong>Research Interest</strong>
 </p>
+
+---
 
 
 <div style="display: flex; justify-content: space-around;">
@@ -42,18 +46,16 @@ nav_order: 3
     <strong>Publications Under Review</strong>
 </p>
 
+---
 
-- <p style="font-size: 20px;"> <strong>Arpan Sur</strong>, Ahmed Zubair, “<strong>Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate</strong>” </p>
+- <p style="font-size: 20px;"> <strong>Arpan Sur</strong>, Ahmed Zubair, “<strong>Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate</strong>” <i> Manuscript submitted in 13th IEEE ICECE (2024) </i> </p>
 
-**Manuscript submitted in 13th IEEE ICECE (2024)**
 
-- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Sajib Bain and, Tanisha Tanzina Hasan, “<strong>Development of a Low-Cost Spectrometer for Educational Applications</strong>” </p>
+- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Sajib Bain and, Tanisha Tanzina Hasan, “<strong>Development of a Low-Cost Spectrometer for Educational Applications</strong>” <i> Manuscript submitted in 13th IEEE ICECE (2024) </i> </p>
 
-**Manuscript submitted in 13th IEEE ICECE (2024)**
 
-- <p style="font-size: 20px;"> Sanath Kumar Das*, <strong>Arpan Sur*</strong>, Md. Farhad Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” </p>
+- <p style="font-size: 20px;"> Sanath Kumar Das*, <strong>Arpan Sur*</strong>, Md. Farhad Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” <i> Manuscript submitted in 27th IEEE ICCIT (2024) </i></p>
 
-**Manuscript submitted in 27th IEEE ICCIT (2024)**
 
 <div style="height: 60px;"></div> 
 
@@ -63,9 +65,12 @@ nav_order: 3
     <strong>Notable Presentation</strong>
 </p>
 
-[Optoelectronic Simulation of Plasmonic Star-Shaped Nano Prism Incorporated Perovskite Solar Cell][JSAP]
+---
 
-**Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024**
+- <p style="font-size: 20px;"> Sanath Kumar Das*, “<strong>Optoelectronic Simulation of Plasmonic Star-Shaped Nano Prism Incorporated Perovskite Solar Cell</strong>” <i> Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024 </i></p>
+
+[Presentation][JSAP]
+
 
 <div style="height: 60px;"></div> 
 
@@ -74,6 +79,8 @@ nav_order: 3
 <p style="text-align: center; font-size: 32px;">
     <strong>Research Experience</strong>
 </p>
+
+---
 
 <p style="text-align: left; font-size: 24px;">
     <strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong>
