@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Successfully **defended** my Undergraduate Thesis titled "A Collaborative Multi-robot Coverage Path Planning and Efficient Target Search System"
+Successfully **defended** my Undergraduate Thesis titled "**A Collaborative Multi-robot Coverage Path Planning and Efficient Target Search System**"

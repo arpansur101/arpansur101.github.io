@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Graduated** with a B.Sc. in Electrical and Electronic Engineering from BUET
+**Graduated** with a **B.Sc.** in Electrical and Electronic Engineering from BUET

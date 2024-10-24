@@ -77,7 +77,7 @@ nav_order: 3
 
 <div style="text-align: center; font-size: 20px;">
   <a href="https://docs.google.com/presentation/d/15cIItyCWa-KjU3bGkxi__p--92b0h0_V/edit?usp=sharing&ouid=104682773955332257682&rtpof=true&sd=true" style="color: blue;">
-    <strong>Presentation</strong>
+    <strong style="color: blue;">Presentation</strong>
   </a>
 </div>
 
