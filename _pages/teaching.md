@@ -43,26 +43,17 @@ nav_order: 3
 </p>
 
 
-- <p style="font-size: 20px;">
-<strong>Arpan Sur</strong>, Ahmed Zubair, “<strong>Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate</strong>”
-</p>
+- <p style="font-size: 20px;"> <strong>Arpan Sur</strong>, Ahmed Zubair, “<strong>Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate</strong>” </p>
 
 **Manuscript submitted in 13th IEEE ICECE (2024)**
 
-- <p style="font-size: 20px;">
-Sudipta Saha*, <strong>Arpan Sur*</strong>, Sajib Bain and, Tanisha Tanzina Hasan, “<strong>Development of a Low-Cost Spectrometer for Educational Applications</strong>”  
-</p>
+- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Sajib Bain and, Tanisha Tanzina Hasan, “<strong>Development of a Low-Cost Spectrometer for Educational Applications</strong>” </p>
 
 **Manuscript submitted in 13th IEEE ICECE (2024)**
 
-
-
-- <p style="font-size: 20px;">
-Sanath Kumar Das*, <strong>Arpan Sur*</strong>, Md. Farhad Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” 
-</p>
+- <p style="font-size: 20px;"> Sanath Kumar Das*, <strong>Arpan Sur*</strong>, Md. Farhad Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” </p>
 
 **Manuscript submitted in 27th IEEE ICCIT (2024)**
-
 
 <div style="height: 60px;"></div> 
 
