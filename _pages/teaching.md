@@ -75,9 +75,12 @@ nav_order: 3
 
 - <p style="font-size: 20px;">“<strong>Optoelectronic Simulation of Plasmonic Star-Shaped Nano Prism Incorporated Perovskite Solar Cell</strong>” <i> Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024 </i></p>
 
-<div style="text-align: center;font-size: 20px;">
-  <a href="https://docs.google.com/presentation/d/15cIItyCWa-KjU3bGkxi__p--92b0h0_V/edit?usp=sharing&ouid=104682773955332257682&rtpof=true&sd=true"><strong>Presentation</strong></a>
+<div style="text-align: center; font-size: 20px;">
+  <a href="https://docs.google.com/presentation/d/15cIItyCWa-KjU3bGkxi__p--92b0h0_V/edit?usp=sharing&ouid=104682773955332257682&rtpof=true&sd=true" style="color: blue;">
+    <strong>Presentation</strong>
+  </a>
 </div>
+
 
 
 
@@ -90,6 +93,8 @@ nav_order: 3
 </p>
 
 ---
+
+<div style="height: 60px;"></div> 
 
 - <p style="text-align: left; font-size: 24px;"><strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong></p>
 
