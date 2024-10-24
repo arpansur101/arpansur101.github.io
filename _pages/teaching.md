@@ -15,6 +15,8 @@ nav_order: 3
 
 ---
 
+<div style="height: 60px;"></div> 
+
 
 <div style="display: flex; justify-content: space-around;">
 
@@ -48,6 +50,8 @@ nav_order: 3
 
 ---
 
+<div style="height: 60px;"></div> 
+
 - <p style="font-size: 20px;"> <strong>Arpan Sur</strong>, Ahmed Zubair, “<strong>Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate</strong>” <i> Manuscript submitted in 13th IEEE ICECE (2024) </i> </p>
 
 
@@ -67,9 +71,11 @@ nav_order: 3
 
 ---
 
+<div style="height: 60px;"></div> 
+
 - <p style="font-size: 20px;">“<strong>Optoelectronic Simulation of Plasmonic Star-Shaped Nano Prism Incorporated Perovskite Solar Cell</strong>” <i> Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024 </i></p>
 
-<div style="text-align: center;">
+<div style="text-align: center;font-size: 20px;">
   <a href="https://docs.google.com/presentation/d/15cIItyCWa-KjU3bGkxi__p--92b0h0_V/edit?usp=sharing&ouid=104682773955332257682&rtpof=true&sd=true">Presentation</a>
 </div>
 
@@ -85,9 +91,7 @@ nav_order: 3
 
 ---
 
-<p style="text-align: left; font-size: 24px;">
-    <strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong>
-</p>
+- <p style="text-align: left; font-size: 24px;"><strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong></p>
 
 <p><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
 
@@ -105,9 +109,7 @@ nav_order: 3
 
 
 
-<p style="text-align: left; font-size: 24px;">
-    <strong>Ultra-compact dielectric-coated graphene based integrated device</strong>
-</p>
+- <p style="text-align: left; font-size: 24px;"><strong>Ultra-compact dielectric-coated graphene based integrated device</strong></p>
 
 <p><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
 
@@ -124,9 +126,7 @@ nav_order: 3
 
 
 
-<p style="text-align: left; font-size: 24px;">
-    <strong>2D material-based nanostructure design for photothermal cancer therapy</strong>
-</p>
+- <p style="text-align: left; font-size: 24px;"><strong>2D material-based nanostructure design for photothermal cancer therapy</strong></p>
 
 <p><i>Supervisor: Dr. Md. Kawsar Alam, Professor, Dept. of EEE, BUET</i></p>
 
@@ -141,8 +141,7 @@ nav_order: 3
 
 
 
-<p style="text-align: left; font-size: 24px;">
-    <strong>Collaborative multi-robot coverage path planning and target search system</strong>
+- <p style="text-align: left; font-size: 24px;"><strong>Collaborative multi-robot coverage path planning and target search system</strong>
 </p>
 
 <p><i>Supervisor:  Dr. Md. Farhad Hossain, Professor, Dept. of EEE, BUET</i></p>
