@@ -56,6 +56,18 @@ S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “Collaborative Path Plann
 
 <div style="height: 60px;"></div> 
 
+
+<p style="text-align: center; font-size: 32px;">
+    <strong>Notable Presentation</strong>
+</p>
+
+[Optoelectronic Simulation of Plasmonic Star-Shaped Nano Prism Incorporated Perovskite Solar Cell][JSAP]
+
+**Presented in 85th JSAP (Japan Society of Applied Physics) Autumn Meeting 2024**
+
+<div style="height: 60px;"></div> 
+
+
 <p style="text-align: center; font-size: 32px;">
     <strong>Research Experience</strong>
 </p>
@@ -131,3 +143,5 @@ S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “Collaborative Path Plann
 
 <div style="height: 30px;">
 </div> 
+
+[JSAP]: https://docs.google.com/presentation/d/15cIItyCWa-KjU3bGkxi__p--92b0h0_V/edit?usp=sharing&ouid=104682773955332257682&rtpof=true&sd=true
