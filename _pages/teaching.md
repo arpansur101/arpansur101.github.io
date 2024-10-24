@@ -37,6 +37,8 @@ nav_order: 3
 
 <div style="height: 60px;"></div> 
 
+---
+
 <p style="text-align: center; font-size: 32px;">
     <strong>Publications Under Review</strong>
 </p>
@@ -63,6 +65,7 @@ S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “<strong>Collaborative Pa
 
 <div style="height: 60px;"></div> 
 
+---
 
 <p style="text-align: center; font-size: 32px;">
     <strong>Notable Presentation</strong>
@@ -74,6 +77,7 @@ S. K. Das*, <strong>A. Sur*</strong>, M. F. Hossain, “<strong>Collaborative Pa
 
 <div style="height: 60px;"></div> 
 
+---
 
 <p style="text-align: center; font-size: 32px;">
     <strong>Research Experience</strong>
