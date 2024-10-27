@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/CV_Arpan_v2.pdf
+permalink: /assets/pdf/CV_Arpan_v3.pdf
 title: CV
 nav: true
 nav_order: 1

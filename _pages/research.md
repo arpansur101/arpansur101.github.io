@@ -98,7 +98,7 @@ nav_order: 3
 
 - <p style="text-align: left; font-size: 24px;"><strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong></p>
 
-<p style="padding-left: 20px;"><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
+<p style="padding-left: 20px;"><i>Supervisor: Dr. Ahmed Zubair, Professor, Dept. of EEE, BUET</i></p>
 
 <div style="text-align: center; font-size: 16px;">
     <ul style="list-style-position: inside; text-align: left;">
@@ -116,7 +116,7 @@ nav_order: 3
 
 - <p style="text-align: left; font-size: 24px;"><strong>Ultra-compact dielectric-coated graphene based integrated device</strong></p>
 
-<p style="padding-left: 20px;"><i>Supervisor: Dr. Ahmed Zubair, Associate Professor, Dept. of EEE, BUET</i></p>
+<p style="padding-left: 20px;"><i>Supervisor: Dr. Ahmed Zubair, Professor, Dept. of EEE, BUET</i></p>
 
 <div style="text-align: center; font-size: 16px;">
     <ul style="list-style-position: inside; text-align: left;">
