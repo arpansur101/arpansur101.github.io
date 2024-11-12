@@ -52,6 +52,8 @@ nav_order: 3
 
 <div style="height: 60px;"></div> 
 
+- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Sajib Bain and, Tanisha Tanzina Hasan, “<strong>NIR-I Responsive 2D MoGe<sub>2</sub>P<sub>4</sub> for Targeted Photothermal Tumor Therapy</strong>” <i> Manuscript submitted to ACS Applied Nano Materials (2024) </i> </p>
+
 - <p style="font-size: 20px;"> <strong>Arpan Sur</strong>, Ahmed Zubair, “<strong>Ultra-Compact Voltage-Controlled Dielectric-Cladded Graphene Plasmonic Waveguide Based Optical Logic Gate</strong>” <i> Manuscript submitted in 13th IEEE ICECE (2024) </i> </p>
 
 
