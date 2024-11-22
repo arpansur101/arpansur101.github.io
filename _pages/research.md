@@ -96,6 +96,8 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
+- <p style="font-size: 20px;"> <strong>Arpan Sur*</strong>, Sudipta Saha*, Ahmed Zubair, “<strong>NIR-Responsive Hyperbolic Metamaterial Sensor for Efficient Salinity Detection</strong>” <i> Abstract submitted in CLEO 2025 </i> </p>
+
 - <p style="font-size: 20px;"> Sanath Kumar Das*, <strong>Arpan Sur*</strong>, Md. Farhad Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” <i> Manuscript submitted in 27th IEEE ICCIT (2024) </i></p>
 
 
