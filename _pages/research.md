@@ -64,6 +64,7 @@ nav_order: 3
 
 - <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Sajib Bain and, Tanisha Tanzina Hasan, “<strong>Development of a Low-Cost Spectrometer for Educational Applications</strong>” <i> To be presented in 13th IEEE ICECE (2024) </i> </p>
 
+- <p style="font-size: 20px;"> Sanath Kumar Das*, <strong>Arpan Sur*</strong>, Md. Farhad Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” <i> To be presented in 27th IEEE ICCIT (2024) </i></p>
 
 <div style="height: 60px;"></div> 
 
@@ -86,7 +87,7 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Labonno Saha, and Md. Kawsar Alam, “<strong>NIR-I Responsive 2D MoGe<sub>2</sub>P<sub>4</sub> for Targeted Photothermal Tumor Therapy</strong>” <i> Manuscript submitted to Small (2024) </i> </p>
+- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Labonno Saha, and Md. Kawsar Alam, “<strong>NIR-I Responsive 2D MoGe<sub>2</sub>P<sub>4</sub> for Targeted Photothermal Tumor Therapy</strong>” <i> Manuscript submitted to <strong>Small</strong> (2024) </i> </p>
 
 <div style="height: 60px;"></div> 
 
@@ -97,8 +98,6 @@ nav_order: 3
 <div style="height: 30px;"></div> 
 
 - <p style="font-size: 20px;"> <strong>Arpan Sur*</strong>, Sudipta Saha*, Ahmed Zubair, “<strong>NIR-Responsive Hyperbolic Metamaterial Sensor for Efficient Salinity Detection</strong>” <i> Abstract submitted in CLEO 2025 </i> </p>
-
-- <p style="font-size: 20px;"> Sanath Kumar Das*, <strong>Arpan Sur*</strong>, Md. Farhad Hossain, “<strong>Collaborative Path Planning and Target Search in Multi-Robot Systems with PID-Controlled Uniform Area Partitioning</strong>” <i> Manuscript submitted in 27th IEEE ICCIT (2024) </i></p>
 
 
 <div style="height: 60px;"></div> 
