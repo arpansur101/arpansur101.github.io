@@ -135,23 +135,6 @@ nav_order: 3
 
 <div style="height: 60px;"></div> 
 
-- <p style="text-align: left; font-size: 24px;"><strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong></p>
-
-<p style="padding-left: 20px;"><i>Supervisor: Dr. Ahmed Zubair, Professor, Dept. of EEE, BUET</i></p>
-
-<div style="text-align: center; font-size: 16px;">
-    <ul style="list-style-position: inside; text-align: left;">
-      <li>Studied the structural dependence of near-field and far-field enhancement by plasmonic nanoparticles (NPs) embedded in ultrathin perovskite solar cells (PSCs), while excluding the parasitic NP absorption. Presented my findings on high-surface-area nanoparticles at the 85th JSAP Autumn Meeting 2024</li>
-      <li>Analyzed the impact of implementing a hyperuniform nanohole pattern in the top layer and absorption layer of perovskite solar cells</li>
-    </ul>
-</div>
-
-<div style="height: 30px;">
-</div> 
-
-
-
-
 
 - <p style="text-align: left; font-size: 24px;"><strong>Ultra-compact dielectric-coated graphene based integrated device</strong></p>
 
@@ -170,19 +153,51 @@ nav_order: 3
 
 
 
-- <p style="text-align: left; font-size: 24px;"><strong>2D material-based nanostructure design for photothermal cancer therapy</strong></p>
+- <p style="text-align: left; font-size: 24px;"><strong>2D material-based agent design for photo-thermal therapy</strong></p>
 
 <p style="padding-left: 20px;"><i>Supervisor: Dr. Md. Kawsar Alam, Professor, Dept. of EEE, BUET</i></p>
 
 <div style="text-align: center; font-size: 16px;">
     <ul style="list-style-position: inside; text-align: left;">
-      <li>Investigated multifunctional nanostructures with superior thermal and optical absorption properties in the NIR spectrum through first-principles and FDTD simulations.</li>
+      <li>Investigated optical and thermal properties of the 2D MoA2Z4 family using first principal calculations and identified MoGe2P4 with improved absorption in the NIR-I biological window and demonstrated successful PEGylation of 2D MoGe2P4 through molecular dynamics (MD) simulations to effectively enhance its biocompatibility.</li>
+      <li>Performed FDTD simulations to assess light absorption and solved bio-heat equation to calculate heat conversion in tumor environment.</li>
+      
     </ul>
 </div>
 
 <div style="height: 30px;">
 </div> 
 
+
+
+- <p style="text-align: left; font-size: 24px;"><strong>Hyperbolic Metamaterial Sensor for Efficient Salinity Detection</strong></p>
+
+<p style="padding-left: 20px;"><i>Supervisor: Dr. Ahmed Zubair, Professor, Dept. of EEE, BUET</i></p>
+
+<div style="text-align: center; font-size: 16px;">
+    <ul style="list-style-position: inside; text-align: left;">
+      <li>Calculated the bulk plasmon polariton (BPP) frequency shift, sensitivity parameter, and hyperbolic dispersion region for multilayer HMM structure.</li>
+      <li>Proposed a Cu/InP multilayer structure that exhibited two salinity-level sensitive BPP modes.</li>
+    </ul>
+</div>
+
+<div style="height: 30px;">
+</div> 
+
+
+- <p style="text-align: left; font-size: 24px;"><strong>Improvement of thin film perovskite solar cells beyond the visible spectrum</strong></p>
+
+<p style="padding-left: 20px;"><i>Supervisor: Dr. Ahmed Zubair, Professor, Dept. of EEE, BUET</i></p>
+
+<div style="text-align: center; font-size: 16px;">
+    <ul style="list-style-position: inside; text-align: left;">
+      <li>Studied the structural dependence of near-field and far-field enhancement by plasmonic nanoparticles (NPs) embedded in ultrathin perovskite solar cells (PSCs), while excluding the parasitic NP absorption. Presented my findings on high-surface-area nanoparticles at the 85th JSAP Autumn Meeting 2024</li>
+      <li>Analyzed the impact of implementing a hyperuniform nanohole pattern in the top layer and absorption layer of perovskite solar cells</li>
+    </ul>
+</div>
+
+<div style="height: 30px;">
+</div> 
 
 
 - <p style="text-align: left; font-size: 24px;"><strong>Collaborative multi-robot coverage path planning and target search system</strong></p>
