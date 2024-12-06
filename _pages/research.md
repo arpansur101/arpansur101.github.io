@@ -87,7 +87,7 @@ nav_order: 3
 
 <div style="height: 30px;"></div> 
 
-- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Labonno Saha, and Md. Kawsar Alam, “<strong>NIR-I Responsive 2D MoGe<sub>2</sub>P<sub>4</sub> for Targeted Photothermal Tumor Therapy</strong>” <i> Manuscript submitted to <strong>Small</strong> (2024) </i> </p>
+- <p style="font-size: 20px;">Sudipta Saha*, <strong>Arpan Sur*</strong>, Labonno Saha, and Md. Kawsar Alam, “<strong>NIR-I Responsive 2D MoGe<sub>2</sub>P<sub>4</sub> for Targeted Photothermal Tumor Therapy</strong>” <i> Manuscript submitted to <strong>Advanced NanoBiomed Research</strong> (2024) </i> </p>
 
 <div style="height: 60px;"></div> 
 
